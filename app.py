@@ -1,4 +1,5 @@
 ## all comments are written by our group members for easy understanding
+#!/usr/bin/python
 from flask import Flask, request, render_template
 import json
 import re ##regulate library for cleaning the user input
